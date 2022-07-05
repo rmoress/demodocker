@@ -1,4 +1,6 @@
 
+git clone https://github.com/rmoress/demodocker.git 
+
 docker build demodocker
 
 docker images
